@@ -1,0 +1,37 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pymupdf
+python-docx
+docx2txt
+unstructured
+unstructured-inference
+unstructured[docx]
+pandas
+openpyxl
+msoffcrypto-tool
+jq
+matplotlib
+## Embeddings
+langchain-huggingface
+langchain-openai
+sentence-transformers
+langchain-experimental
+rank_bm25
+wikipedia
+langgraph
+### Vector Stores
+langchain-chroma
+langchain-faiss
+langchain-weaviate
+langchain-milvus
+langchain-pinecone
+langchain-qdrant
+langchain-redis
